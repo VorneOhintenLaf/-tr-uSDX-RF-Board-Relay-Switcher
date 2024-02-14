@@ -17,4 +17,4 @@ Prototyping pcb,
 See the schematics for details
 
 
-The video shows an older version of the Arduino Sketch, wich allowed to switch all realaya at once.
+The video shows an older version of the Arduino Sketch, wich allowed to switch all realays at once.
